@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-* I'm **KangShuGe**, focused on frontend development and cybersecurity blue team learning.
+* I'm **linlangkang**, focused on frontend development and cybersecurity blue team learning.
 * Familiar with **Vue 3, Node.js, MySQL, Mini Program development**, and basic frontend-backend integration.
 * Currently learning:
 
